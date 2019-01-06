@@ -1,0 +1,11 @@
+Ship Service Program for CargoMate!
+
+This program is used entirely through the command line/console.
+
+Run the program and follow the command line instructions.
+Enter:
+1 - Print all the ship
+2 - Enter an ID to print a specific ship
+3 - Enter an owner to print a list of ships owned by them (owner must entered without quotation marks)
+
+The program only handles one input per run so to chose a new option the program must be restarted.
